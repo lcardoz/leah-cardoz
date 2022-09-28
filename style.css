@@ -5,5 +5,14 @@ body {
 h1 {
     font-family: Monaco, serif;
     font-size: 30px;
-    color: white;
+    color: #fc3903;
+    background-color: gainsboro;
+    padding: 10px 10px 10px 10px;
   }
+
+h2 {
+    font-family: Monaco, serif;
+    font-size: 15px;
+    color: gainsboro;
+    font-style: italic;
+}
