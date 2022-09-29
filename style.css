@@ -14,5 +14,11 @@ h2 {
     font-family: Monaco, serif;
     font-size: 15px;
     color: gainsboro;
+}
+
+span.smallHeader {
+    font-family: Monaco, serif;
+    font-size: 15px;
+    color: #3b95e3;
     font-style: italic;
 }
