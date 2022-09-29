@@ -1,4 +1,4 @@
 const h2 = document.createElement("h2");
-h2.textContent = "javaScript";
+h2.textContent = "javaScript2";
 
 document.querySelector("body").appendChild(h2);
