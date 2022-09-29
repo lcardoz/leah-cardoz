@@ -29,11 +29,17 @@ h2 {
 #aboutme {
     background-color:#fc3903;
     position: relative;
-    width: 550px;
+    width: 600px;
     height: 200px;
     font-family: Monaco, serif;
     font-size: 15px;
     text-align: left;
     color: gainsboro;
-    padding: 5px 20px 0px 20px;
+    padding: 5px 0px 0px 20px;
   }
+
+#leahphoto {
+    margin-left: 50%;
+    position: relative;
+    padding: 10px 0px 0px 0px;
+}
