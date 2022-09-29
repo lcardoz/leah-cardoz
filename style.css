@@ -17,7 +17,7 @@ h2 {
     font-size: 15px;
     color: gainsboro;
     text-decoration: underline;
-    padding: 0px 0px 0px 20px;
+    padding: 0px 0px 0px 0px;
 }
 
 .small-header {
@@ -46,9 +46,16 @@ h2 {
 }
 
 .contact-links {
+    display: flex;
+    justify-content: space-between;
     font-family: Monaco, serif;
     color: #fc3903;
     background-color: gainsboro;
     padding: 5px 10px 5px 10px;
     text-align: center;
 }
+
+#main {
+    width: 100%;
+}
+
