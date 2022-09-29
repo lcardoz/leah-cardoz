@@ -1,10 +1,9 @@
 # My Personal Website
 
 add:
--about me section
+
+-div box with photo of me
 
 -link to Linkedin
 -link to GitHub profile
 -link to send email
-
--photos? 

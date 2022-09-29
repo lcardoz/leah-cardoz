@@ -12,9 +12,11 @@ h1 {
 
 h2 {
     font-family: Monaco, serif;
-    font-size: 20px;
+    font-size: 15px;
     color: gainsboro;
     text-decoration: underline;
+    font-style: italic;
+    padding: 10px 0px 0px 20px;
 }
 
 .small-header {
@@ -27,12 +29,11 @@ h2 {
 #aboutme {
     background-color:#fc3903;
     position: relative;
-    width: 600px;
+    width: 550px;
     height: 200px;
     font-family: Monaco, serif;
     font-size: 15px;
     text-align: left;
     color: gainsboro;
-    font-style: italic;
-    padding: 10px 10px 10px 10px;
+    padding: 5px 20px 0px 20px;
   }
