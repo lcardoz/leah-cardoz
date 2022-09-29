@@ -1,5 +1,6 @@
 body {
     background: #3b95e3;
+    padding: 0px 0px 0px 0px;
 }
 
 h1 {
@@ -8,6 +9,7 @@ h1 {
     color: #fc3903;
     background-color: gainsboro;
     padding: 10px 10px 10px 10px;
+    text-align: center;
   }
 
 h2 {
@@ -15,8 +17,7 @@ h2 {
     font-size: 15px;
     color: gainsboro;
     text-decoration: underline;
-    font-style: italic;
-    padding: 10px 0px 0px 20px;
+    padding: 0px 0px 0px 20px;
 }
 
 .small-header {
@@ -30,16 +31,24 @@ h2 {
     background-color:#fc3903;
     position: relative;
     width: 600px;
-    height: 200px;
+    height: 250px;
     font-family: Monaco, serif;
     font-size: 15px;
     text-align: left;
     color: gainsboro;
-    padding: 5px 0px 0px 20px;
+    padding: 15px 0px 0px 20px;
   }
 
 #leahphoto {
     margin-left: 50%;
     position: relative;
-    padding: 10px 0px 0px 0px;
+    padding: 10px 0px 10px 30px;
+}
+
+.contact-links {
+    font-family: Monaco, serif;
+    color: #fc3903;
+    background-color: gainsboro;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
 }
