@@ -22,3 +22,14 @@ h2 {
     color: #3b95e3;
     font-style: italic;
 }
+
+#aboutme {
+    background-color:#fc3903;
+    position: relative;
+    width: 600px;
+    height: 200px;
+    font-family: Monaco, serif;
+    font-size: 15px;
+    text-align: left;
+    color: gainsboro;
+  }
